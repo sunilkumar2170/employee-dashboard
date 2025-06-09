@@ -1,0 +1,26 @@
+{
+  "name": "express.js",
+  "version": "1.0.9",
+  "description": "helo this is expreess ",
+  "main": "main.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "expres",
+    "js"
+  ],
+  "author": "sunil kumar",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.15.1",
+    "pug": "^3.0.3"
+  }
+}
