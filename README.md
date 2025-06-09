@@ -6,7 +6,7 @@ A full-stack web application to **add, view, and filter employee data** using Ex
 
 ## 📸 Screenshot
 
-![Employee Dashboard Screenshot](Screenshot%202025-06-09%20090858.png)
+![Project Photo](images/project-photo.png)
 
 ---
 
