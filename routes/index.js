@@ -7,7 +7,7 @@ router.get('/', async (req, res) => {
     try {
         const empo = await EmployeeModel.find();
         res.render('html', {
-            title: 'Sunil Don',
+            title: 'employee-dashboard',
             employees: empo
         });
     } catch (err) {
